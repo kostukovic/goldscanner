@@ -306,13 +306,6 @@ The mechanical “Gold Box” is conceived as a reference implementation, not ma
 
 ---
 
-## 📜 License
-
-Planned:  
-- **Apache-2.0** or **MIT** (to be decided for the first public release).
-
----
-
 ## 🤝 Contributing
 
 Goldscanner is intended as an **open, community-driven** project.
