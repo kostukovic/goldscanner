@@ -62,7 +62,7 @@ Goldscanner cares about the **final free grains/pebbles**, not the original bedr
 
 ---
 
-## 📡 Why multispectral (and not hyperspectral)?
+## 📡 Why multispectral (and not hyperspectral) – focusing on a few key wavelengths?
 
 **Short answer:**  
 Multispectral is **much cheaper** and fast enough (20–120 fps) for real-time vision in a sluice box or cleanup table.
